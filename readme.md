@@ -1,4 +1,3 @@
-Sure, here is a sample README file that includes the information you provided:
 
 # OpenCV Implementation of Phycv Library
 

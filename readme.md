@@ -26,11 +26,11 @@ Sure, here's an updated usage section for your project's README:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/sachinlodhi/phycv_opencv.git
    ```
 2. Navigate to the project directory:
    ```
-   cd <your-repo-name>
+   cd phycv_opencv
    ```
 3. Install the required packages using pip:
    ```
